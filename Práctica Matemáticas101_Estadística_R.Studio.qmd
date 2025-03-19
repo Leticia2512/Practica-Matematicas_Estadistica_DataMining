@@ -319,7 +319,7 @@ de barrios (cluster 3) y daría error")
 
 ```
 
-Teniendo en cuenta los pocos datos disponibles para ajustar el modelo, se puede decir que el modelo es aceptable, aunque mejoable. A continuación analizamos los resultados observados:
+Teniendo en cuenta los pocos datos disponibles para ajustar el modelo, se puede decir que el modelo es aceptable, aunque mejorable. A continuación analizamos los resultados observados:
 
 El RMSE (Root Mean Squared Error) obtenido es de 44,510, lo que quiere decir que las predicciones del modelo se desvían de los valores reales en aproximadamente 44,510 unidades.
 
