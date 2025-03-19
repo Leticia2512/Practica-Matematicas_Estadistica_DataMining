@@ -7,7 +7,7 @@ Implementación de un modelo de regresión lineal para predecir los metros cuadr
 
 🎯 **Objetivos del Proyecto**
 
-- Carga y exploración del dataset ([airbnb-listing ](https://archive.ics.uci.edu/dataset/9/auto+mpg)).
+- Carga y exploración del dataset ([airbnb-listings](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/airbnb-listings.zip)).
 
 - Manejo de datos faltantes.
 
@@ -42,4 +42,4 @@ Implementación de un modelo de regresión lineal para predecir los metros cuadr
 🔗 **Acceso al Notebook**
 
 Puedes ver el notebook con el desarrollo de la práctica en el siguiente enlace:  
-[📓 Ver Notebook en GitHub](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Algebra-Lineal-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Mo%CC%81dulo%20Matema%CC%81ticas101_A%CC%81lgebra%20Lineal.ipynb)  
+[📓 Ver Notebook en GitHub](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Matema%CC%81ticas101_Estadi%CC%81stica_R.Studio.qmd)  
