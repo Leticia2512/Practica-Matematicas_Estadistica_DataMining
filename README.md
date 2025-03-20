@@ -39,7 +39,7 @@ Implementación de un modelo de regresión lineal para predecir los metros cuadr
   
     GGally: Para gráficos de relaciones entre múltiples variables (como matrices de correlaciones).
 
-🔗 **Acceso al Notebook**
+🔗 **Acceso al archivo Quarto Mardown**
 
-Puedes ver el notebook con el desarrollo de la práctica en el siguiente enlace:  
-[📓 Ver Notebook en GitHub](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Matema%CC%81ticas101_Estadi%CC%81stica_R.Studio.qmd)  
+Puedes ver el archivo con el desarrollo de la práctica en el siguiente enlace:  
+[📓 Ver archivo en GitHub](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Matema%CC%81ticas101_Estadi%CC%81stica_R.Studio.qmd)  
