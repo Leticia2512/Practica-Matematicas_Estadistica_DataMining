@@ -1,45 +1,48 @@
 # Práctica Módulo Matemáticas_Estadística_DataMining 
-## Bootcamp Big Data, Machine Learning & IA_Keepcoding
+### Bootcamp Big Data, Machine Learning & IA_Keepcoding
+___
 
-### Entrenamiento de un Modelo de Regresión Lineal
+Este repositorio contiene la implementación de un modelo de **regresión lineal** en **R** para predecir los metros cuadrados de pisos en Madrid, utilizando datos obtenidos del dataset de **airbnb-listings**.
 
-Implementación de un modelo de regresión lineal para predecir los metros cuadrados de pisos de Madrid a partir de los datos obtenidos del dataset de AirBnB.
+---
 
-🎯 **Objetivos del Proyecto**
+## 🎯 Objetivos del Proyecto
+- **Carga y exploración de datos**: Analizar el dataset [airbnb-listings](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/airbnb-listings.zip).
+- **Manejo de datos faltantes**: Completar o gestionar datos ausentes en el dataset.
+- **Análisis exploratorio**: Explorar las relaciones y características de los datos relevantes.
+- **Desarrollo del modelo**: Construcción de un modelo de regresión lineal para predecir metros cuadrados.
+- **Evaluación del modelo**: Medir la calidad y precisión de las predicciones.
+- **Aplicación del modelo**: Usar el modelo para predecir metros cuadrados en datos faltantes del dataset.
 
-- Carga y exploración del dataset ([airbnb-listings](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/airbnb-listings.zip)).
+---
 
-- Manejo de datos faltantes.
+## 📊 Dataset
+El proyecto utiliza el dataset **airbnb-listings**, es un csv que contiene información detallada de propiedades en Madrid. Puedes acceder al archivo comprimido desde el siguiente enlace:  
+[airbnb-listings](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/airbnb-listings.zip)
 
-- Análisis exploratorio de los datos.
+---
 
-- Creación del Modelo de regresión lineal.
+## 📈 Desarrollo de la práctica
+Puedes explorar el desarrollo completo de la práctica a través del archivo Quarto Markdown:  
+[Ver Archivo en GitHub](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Matema%CC%81ticas101_Estadi%CC%81stica_R.Studio.qmd)
 
-- Evaluación de la calidad del modelo.
+___
 
-- Aplicación del modelo para predecir los metros cuadrados de los datos faltantes.
+## 🛠️ Lenguajes y Librerías Utilizadas
+- **Lenguaje:** R  
+- **Librerías principales:**  
+  - **`ggplot2`**: Visualización de datos y gráficos estadísticos.  
+  - **`tidyverse`**: Conjunto de paquetes como `dplyr` y `ggplot2`, esenciales para manipulación y visualización de datos.  
+  - **`reshape2`**: Herramientas avanzadas para manipulación de datos, como la función `melt`.  
+  - **`dendextend`**: Manipulación y visualización de dendrogramas.  
+  - **`cluster`**: Análisis de agrupamiento y gráficos de Silhouette.  
+  - **`caret`**: Proceso de modelado simplificado, desde la preparación hasta la evaluación de datos.  
+  - **`GGally`**: Gráficos de relaciones entre múltiples variables, como matrices de correlación.
 
-🛠️ **Tecnologías y Librerías Utilizadas**
 
-- Lenguaje: R
 
-- Librerías:
 
-    ggplot2: Para la visualización de datos (gráficos y gráficos estadísticos).
-  
-    tidyverse: Incluye dplyr y ggplot2, esenciales para manipulación y visualización de datos.
-  
-    reshape2: Para manipulación de datos, especialmente útil para la función melt (que se utiliza para la matriz de p-valores).
-  
-    dendextend: Para trabajar con dendrogramas.
-  
-    cluster: Para realizar análisis de agrupamiento y la gráfica de Silhouette.
-  
-    caret: Para facilitar el proceso de modelado, desde la preparación de los datos hasta la evaluación del modelo.
-  
-    GGally: Para gráficos de relaciones entre múltiples variables (como matrices de correlaciones).
 
-🔗 **Acceso al archivo Quarto Mardown**
 
-Puedes ver el archivo con el desarrollo de la práctica en el siguiente enlace:  
-[📓 Ver archivo en GitHub](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Matema%CC%81ticas101_Estadi%CC%81stica_R.Studio.qmd)  
+
+
