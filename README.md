@@ -1,4 +1,4 @@
-# Practica Modulo Matematicas_Estadistica_DataMining Bootcamp BD15
+# Practica Modulo Matematicas_Estadistica_DataMining 
 ## Bootcamp Big Data, ML & IA_Keepcoding
 
 ### Entrenamiento de un Modelo de Regresión Lineal
