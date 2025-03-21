@@ -17,14 +17,13 @@ Este repositorio contiene la implementación de un modelo de **regresión lineal
 ---
 
 ## 📊 Dataset
-El proyecto utiliza el dataset **airbnb-listings**, es un csv que contiene información detallada de propiedades en Madrid. Puedes acceder al archivo comprimido desde el siguiente enlace:  
-[airbnb-listings](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/airbnb-listings.zip)
+Para la práctica se analiza el dataset **airbnb-listings**, aquí el enlace para descargarlo: [airbnb-listings](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/airbnb-listings.zip)
 
 ---
 
 ## 📈 Desarrollo de la práctica
-Puedes explorar el desarrollo completo de la práctica a través del archivo Quarto Markdown:  
-[Ver Archivo en GitHub](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Matema%CC%81ticas101_Estadi%CC%81stica_R.Studio.qmd)
+Puedes explorar el desarrollo completo de la práctica en este archivo Quarto Markdown:  
+[Ver práctica](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Matema%CC%81ticas101_Estadi%CC%81stica_R.Studio.qmd)
 
 ___
 
