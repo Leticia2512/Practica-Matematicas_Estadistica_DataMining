@@ -22,7 +22,7 @@ Para la práctica se analiza el dataset **airbnb-listings**:[airbnb-listings](ht
 ---
 
 ## 📈 Desarrollo de la práctica
-Puedes explorar el desarrollo completo de la práctica en este archivo Quarto Markdown:  
+Puedes explorar el desarrollo completo de la práctica en el siguiente enlace:  
 [Ver práctica](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Matema%CC%81ticas101_Estadi%CC%81stica_R.Studio.qmd)
 
 ___
