@@ -7,7 +7,7 @@ Este repositorio contiene la implementación de un modelo de **regresión lineal
 ---
 
 ## 🎯 Objetivos del Proyecto
-- **Carga y exploración de datos**: Analizar el dataset [airbnb-listings](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/airbnb-listings.zip).
+- **Carga y exploración de datos**: Analizar el dataset airbnb-listings.csv.
 - **Manejo de datos faltantes**: Completar o gestionar datos ausentes en el dataset.
 - **Análisis exploratorio**: Explorar las relaciones y características de los datos relevantes.
 - **Desarrollo del modelo**: Construcción de un modelo de regresión lineal para predecir metros cuadrados.
@@ -17,7 +17,7 @@ Este repositorio contiene la implementación de un modelo de **regresión lineal
 ---
 
 ## 📊 Dataset
-Para el desarrollo de la práctica se ha usado el dataset [**airbnb-listings**](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/airbnb-listings.zip)
+Para el desarrollo de la práctica se ha usado el dataset [**airbnb-listings**](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/airbnb-listings.zip).
 
 ---
 
