@@ -24,7 +24,7 @@ Para el desarrollo de la práctica se ha usado el dataset [**airbnb-listings**](
 
 ___
 
-## 🛠️ Lenguajes y Librerías Utilizadas
+## 🛠️ Lenguajes y herramientas Utilizadas
 - **Lenguaje:** R
 - **IDE:** RStudio
 - **Librerías principales:**  
