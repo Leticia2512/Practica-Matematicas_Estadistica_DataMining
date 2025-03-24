@@ -14,21 +14,19 @@ Este repositorio contiene la implementación de un modelo de **regresión lineal
 - **Evaluación del modelo**: Medir la calidad y precisión de las predicciones.
 - **Aplicación del modelo**: Usar el modelo para predecir metros cuadrados en datos faltantes del dataset.
 
+Puedes explorar el desarrollo completo de la práctica en el siguiente enlace:  
+[Práctica Matemáticas101_Estadística_R.Studio.qmd](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Matema%CC%81ticas101_Estadi%CC%81stica_R.Studio.qmd)
+
 ---
 
 ## 📊 Dataset
 Para el desarrollo de la práctica se ha usado el dataset [**airbnb-listings**](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/airbnb-listings.zip).
 
----
-
-## 📈 Desarrollo de la práctica
-Puedes explorar el desarrollo completo de la práctica en el siguiente enlace:  
-[Ver práctica](https://github.com/Leticia2512/Practica-Modulo-Matematicas_Estadistica_DataMining-Bootcamp-BD15/blob/main/Pra%CC%81ctica%20Matema%CC%81ticas101_Estadi%CC%81stica_R.Studio.qmd)
-
 ___
 
 ## 🛠️ Lenguajes y Librerías Utilizadas
-- **Lenguaje:** R  
+- **Lenguaje:** R
+- **IDE:** RStudio
 - **Librerías principales:**  
   - **`ggplot2`**: Visualización de datos y gráficos estadísticos.  
   - **`tidyverse`**: Conjunto de paquetes como `dplyr` y `ggplot2`, esenciales para manipulación y visualización de datos.  
