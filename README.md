@@ -1,5 +1,6 @@
-# Práctica Módulo Matemáticas_Estadística_DataMining 
-### Bootcamp Big Data, Machine Learning & IA_Keepcoding
+# Predicción de Metros Cuadrados en Pisos de Madrid con Regresión Lineal (R)
+
+Módulo Matemáticas-Estadística-Data Mining - Bootcamp KeepCoding
 ___
 
 Este repositorio contiene la implementación de un modelo de **regresión lineal** en **R** para predecir los metros cuadrados de pisos en Madrid, utilizando datos obtenidos del dataset de **airbnb-listings**.
